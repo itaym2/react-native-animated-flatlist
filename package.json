@@ -1,0 +1,9 @@
+{
+  "name": "react-native-animated-flatlist",
+  "version": "0.0.1",
+  "description": "An animated flatlist component, which allows animating the addition and\\or removal of items from the flatlist",
+  "main": "index.js",
+  "repository": "https://github.com/itaym2/react-native-animated-flatlist",
+  "author": "Itay Maoz <itaym2@gmail.com>",
+  "license": "MIT"
+}
