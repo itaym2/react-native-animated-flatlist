@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/itaym2/react-native-animated-flatlist",
   "author": "Itay Maoz <itaym2@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "ramda": "^0.24.1",
+    "react": "^15.6.1",
+    "react-native": "^0.47.2"
+  }
 }
